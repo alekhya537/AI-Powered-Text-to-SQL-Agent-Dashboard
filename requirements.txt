@@ -1,0 +1,7 @@
+boto3
+ipykernel
+python-dotenv
+groq
+streamlit
+pandas
+plotly
